@@ -13,8 +13,8 @@ Design a Nice Login and Register page with Html and CSS for the ecolearn academy
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Arka-Web-Application/)
-- Live Site URL: [Netlify](https://arka-web-application.netlify.app/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Ecolearn-Login-Page/)
+- Live Site URL: [Netlify](https://ecolearn-register.netlify.app)
 
 ## My process
 
